@@ -22,7 +22,7 @@ I'm Nikhil P Rao
 
 -->
 ### Hi there 👋
-<img width="1834" alt="Make your README" src="https://github.com/nikhil9066/nikhil9066/assets/36182930/f7952e88-08c5-4398-9d2e-32443e217b53">
+<img width="1834" alt="Make your README" src="https://github.com/nikhil9066/nikhil9066/blob/main/Make%20your%20README.png">
 
 My name is Nikhil Premachandra rao, you can call me '**NIK**', a student at UmassD, tackling the wild journey of a Master's in Data Science. When I'm not decoding the secrets of machine learning, you'll catch me and my Python accomplice adding a dash of spice to the data realm because who said data couldn't be as flavorful as a good Indian curry? Let's turn those algorithms into comedy sketches and make data analysis a laughter-filled adventure! 🌶️🤖😄🐍📊
 
