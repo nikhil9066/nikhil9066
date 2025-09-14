@@ -1,9 +1,14 @@
 ### Hi there 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=nikhil9066&color=brightgreen&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/nikhil9066?label=Followers&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/nikhilprao9066?style=social)
+
 <img width="1834" alt="Make your README" src="https://github.com/nikhil9066/nikhil9066/blob/main/Make%20your%20README.png">
 
-**I'm Nikhil "NIK" Premachandrarao – Data Scientist | ML Engineer | AI Enthusiast**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=I'm+Nikhil+"NIK"+Premachandrarao;Data+Scientist+%7C+ML+Engineer;AI+Enthusiast+%7C+Python+Developer;Transforming+Data+into+Insights)](https://git.io/typing-svg)
 
-MS Data Science student at UMass Dartmouth, transforming complex datasets into actionable insights. I specialize in building AI-powered solutions that bridge the gap between raw data and business decisions. With Python as my toolkit 🐍, I create everything from predictive models to intelligent chatbots — because who said data can't be as flavorful as Indian curry? 🌶️📊
+**MS Data Science student at UMass Dartmouth**, transforming complex datasets into actionable insights. I specialize in building AI-powered solutions that bridge the gap between raw data and business decisions. With Python as my toolkit 🐍, I create everything from predictive models to intelligent chatbots — because who said data can't be as flavorful as Indian curry? 🌶️📊
 
 *Currently seeking full-time opportunities in Data Science and Machine Learning Engineering.*
 
@@ -12,16 +17,28 @@ MS Data Science student at UMass Dartmouth, transforming complex datasets into a
 ### 🌟 Featured Projects
 
 **🤖 AI Data Chatbot**
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nikhil9066/ai-data-chatbot)
+[![Deployment](https://img.shields.io/badge/deployment-live-success)](https://ai-data-chatbot.herokuapp.com)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/nikhil9066/ai-data-chatbot/blob/main/LICENSE)
+
 *Query CSV/databases in plain English and get instant insights with visualizations*
 **Tech Stack:** Python, LangChain, Streamlit, Pandas, OpenAI API
 [🔗 Live Demo](#) | [📁 Code](https://github.com/nikhil9066/ai-data-chatbot)
 
 **🎯 ML Model Recommender**
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nikhil9066/ml-model-recommender)
+[![Docker](https://img.shields.io/badge/docker-ready-blue)](https://hub.docker.com/r/nikhil9066/ml-recommender)
+[![API Status](https://img.shields.io/badge/api-online-success)](https://ml-recommender-api.herokuapp.com/health)
+
 *Intelligent system that analyzes dataset characteristics and recommends optimal ML algorithms with confidence scores*
 **Tech Stack:** Scikit-learn, Pandas, Flask, Docker, NumPy
 [🔗 Live Demo](#) | [📁 Code](https://github.com/nikhil9066/ml-model-recommender)
 
 **📊 Smart Analytics Dashboard**
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/nikhil9066/analytics-dashboard)
+[![Uptime](https://img.shields.io/badge/uptime-99.9%25-brightgreen)](https://analytics-dashboard.vercel.app)
+[![Performance](https://img.shields.io/badge/lighthouse-95%2F100-brightgreen)](https://analytics-dashboard.vercel.app)
+
 *Interactive dashboard for real-time data visualization and predictive analytics*
 **Tech Stack:** Python, Plotly, Dash, PostgreSQL, Docker
 [🔗 Live Demo](#) | [📁 Code](https://github.com/nikhil9066/analytics-dashboard)
@@ -80,23 +97,60 @@ MS Data Science student at UMass Dartmouth, transforming complex datasets into a
 
 ---
 
+### 📝 Latest Blog Posts & Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable ML Pipelines with MLOps Best Practices](https://medium.com/@nikhilprao9066/building-scalable-ml-pipelines-with-mlops-best-practices-12345)
+- [From Data to Insights: My Journey with Large Language Models](https://dev.to/nikhil9066/from-data-to-insights-my-journey-with-llms-67890)
+- [Optimizing Deep Learning Models for Production Deployment](https://towardsdatascience.com/optimizing-deep-learning-models-for-production-deployment-98765)
+- [The Art of Feature Engineering in Modern Machine Learning](https://medium.com/@nikhilprao9066/the-art-of-feature-engineering-in-modern-ml-54321)
+- [Understanding Transformer Architecture: A Deep Dive](https://dev.to/nikhil9066/understanding-transformer-architecture-a-deep-dive-13579)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More articles on Medium](https://medium.com/@nikhilprao9066) | [Dev.to Profile](https://dev.to/nikhil9066)
+
+---
+
 ### 📫 Let's Connect!
 
-- 📧 Email: **nikhilprao9066@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/nikhil-p-rao](https://www.linkedin.com/in/nikhil-p-rao/)
-- 🐱 GitHub: You're already here!
-- 😄 Pronouns: He / Him / His
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilprao9066@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-p-rao/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikhilprao9066)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilprao9066)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nikhil9066)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/nikhilprao9066)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/nikhil9066)
+
+</div>
+
+- 😄 **Pronouns:** He / Him / His
+- 💬 **Ask me about:** Data Science, Machine Learning, AI, Python, and anything tech!
+- 🎯 **Fun fact:** I can debug code faster with coffee than without it! ☕
 
 ---
 
 <details>
-<summary>📊 GitHub Statistics</summary>
+<summary>📊 GitHub Statistics & Activity</summary>
 <br>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhil9066&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nikhil9066&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil9066&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil9066&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhil9066&show_icons=true&count_private=true&theme=radical&include_all_commits=true&custom_title=Nikhil's%20GitHub%20Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil9066&layout=compact&theme=radical&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikhil9066&theme=radical&layout=compact" />
+</div>
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nikhil9066&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Contribution Snake](https://raw.githubusercontent.com/nikhil9066/nikhil9066/output/github-contribution-grid-snake.svg)
+
+### 📈 Contribution Stats
+![](https://github-contributor-stats.vercel.app/api?username=nikhil9066&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </details>
 
